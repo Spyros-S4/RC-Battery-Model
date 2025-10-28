@@ -73,5 +73,5 @@ Thumbs.db
 *.nbconvert.ipynb
 
 # Ignore data files
-data/
 datasets/
+Functions/
